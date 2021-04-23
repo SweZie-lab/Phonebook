@@ -1,0 +1,35 @@
+@import "nav.css";
+@import "media.css";
+@import "containers.css";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+      background-color:#a4b0be;
+  }
+
+  .infoheader {
+      margin: 3rem;
+      text-align:center;
+  }
+
+.hh1 {
+    margin:5rem;
+}
+
+.tcenter {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    }
+    table, th, td {
+        border: 1px solid black;
+    }
+  .centertext {
+    text-align: center;
+  }
